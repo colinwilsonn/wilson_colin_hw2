@@ -2,7 +2,7 @@
 South Park Marvel Update - A reimagining of Marvel characters in the style of South Park. This project replaces iconic Marvel superheroes with South Park characters, updating the color scheme to match the distinct, playful nature of South Park animation.
 
 ## Installation
-To get started with the South Park Marvel Update project, follow these steps:
+No Installation Needed
 
 ## Usage
 
