@@ -133,6 +133,11 @@ h5 {
     color: #fff;
 }
 
+/* Lightbox for Stan */
+#lightbox1:target {
+    display: flex; /* Show lightbox when targeted */
+}
+
 /* Lightbox for Kenny */
 #lightbox2:target {
     display: flex; /* Show lightbox when targeted */
@@ -142,3 +147,19 @@ h5 {
 #lightbox3:target {
     display: flex; /* Show lightbox when targeted */
 }
+
+/* Lightbox for Kenny */
+#lightbox4:target {
+    display: flex; /* Show lightbox when targeted */
+}
+
+/* Lightbox for Randy */
+#lightbox5:target {
+    display: flex; /* Show lightbox when targeted */
+}
+
+/* Lightbox for Kenny */
+#lightbox6:target {
+    display: flex; /* Show lightbox when targeted */
+}
+
